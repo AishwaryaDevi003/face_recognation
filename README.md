@@ -1,10 +1,10 @@
-##Face Recognition System
+#Face Recognition System
 
-#Overview
+##Overview
 
 This project is a real-time face recognition system built using deep learning and OpenCV. It captures images, preprocesses and augments them, organizes datasets, and trains a deep learning model for accurate face recognition.
 
-#Features
+##Features
 
 Face Detection & Recognition: Uses OpenCV for real-time face detection.
 
@@ -16,7 +16,7 @@ Web Application Integration: Can be deployed in a web-based interface.
 
 Live Camera Feed: Supports webcam-based real-time face recognition.
 
-#Installation
+##Installation
 
 Prerequisites
 
@@ -32,7 +32,7 @@ Flask (for web integration)
 
 Dlib (for face embedding extraction)
 
-#Acknowledgments
+##Acknowledgments
 
 This project utilizes OpenCV, TensorFlow/Keras, and Dlib for efficient face recognition.
 
